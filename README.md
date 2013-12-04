@@ -7,13 +7,14 @@ pour installer ce module :
 -copier le contenu de ce dossier à la base de votre ftp
 -Lancer install.php en entrant l'adresse suivante dans votre navigateur : http://votre-site/install.php
 -suivez les indications
+-configurer le fichier config.php
 
 
 Sur free vous n'aurrez pas les images XD
 
 j'ai changer le fichier Includes/wowarmoryapi/Character.class.php la ligne 398 pour mettre en fr le nom des réputations.
 
-Si jamais vous avez un soucis : http://www.chezyann.net
+Si jamais vous avez un soucis : http://www.titeflafla.net
 
 
 credits :
