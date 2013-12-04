@@ -9,7 +9,7 @@ $GLOBALS['wowarmory']['db']['username'] = $global['db_user']; // le nom d'utilis
 $GLOBALS['wowarmory']['db']['password'] = $global['db_pass']; // le mot de pass
 
 $guilde['wow_region'] = 'EU';       // US, EU, KR, TW
-$guilde['wow_stream'] = 'Uldaman';  // votre serveur
+$guilde['wow_stream'] = '';  // votre serveur
 // Set the locale. Will default back to region default if not defined. English normally.
 // us.battle.net: en_US, es_MX
 // eu.battle.net: en_GB, es_ES, fr_FR, ru_RU, de_DE
@@ -17,13 +17,13 @@ $guilde['wow_stream'] = 'Uldaman';  // votre serveur
 // tw.battle.net: zh_TW
 // battlenet.com.cn: zh_CN
 $guilde['wow_locale'] = 'fr_FR';
-$guilde['wow_guilde'] = 'Atome';   // nom de la guilde
+$guilde['wow_guilde'] = '';   // nom de la guilde
 
 
 function translate_rank($id_name) {
 	switch ($id_name) {
  		case 0:  // 0 est toujours le MG
-                $titre = 'Maître de guilde';
+                $titre = 'Maï¿½tre de guilde';
                 break;
                 case 1:
    		$titre = 'rang 1';
