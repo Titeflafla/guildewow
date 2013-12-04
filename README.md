@@ -9,6 +9,7 @@ pour installer ce module :
 -suivez les indications
 -configurer le fichier config.php
 
+Démo disponible sur http://nk.titeflafla.net
 
 Sur free vous n'aurrez pas les images XD
 
