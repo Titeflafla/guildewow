@@ -9,13 +9,13 @@ pour installer ce module :
 -suivez les indications
 -configurer le fichier config.php
 
-Démo disponible sur http://nk.titeflafla.net
+Démo disponible sur http://nk.chezyann.net
 
 Sur free vous n'aurrez pas les images XD
 
 j'ai changer le fichier Includes/wowarmoryapi/Character.class.php la ligne 398 pour mettre en fr le nom des réputations.
 
-Si jamais vous avez un soucis : http://www.titeflafla.net
+Si jamais vous avez un soucis : http://www.chezyann.net
 
 
 credits :
